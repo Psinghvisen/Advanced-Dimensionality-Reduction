@@ -6,6 +6,11 @@ https://colab.research.google.com/drive/1MFBPL70nki_Q5lDXWkvb1L7fLofHl4xT?usp=sh
 
 
 
+video description link:
+https://youtu.be/bNbjNTnZNIk
+
+
+
 
 
 b)Dimentionality reduction on tabular dataset
