@@ -27,3 +27,8 @@ https://youtu.be/dRzxzcLpUss
 c) Demonstrate dimensionality reduction using data bricks
 
 https://colab.research.google.com/drive/1QxFBAbnsiu1yTv0GFUHU39tCA_frswZy?usp=sharing
+
+
+video description link:
+
+https://youtu.be/boNOXfPzaDE
